@@ -1,16 +1,13 @@
-# flt_keep
+# flutternoteskeep
 
 A new Flutter project.
 
 ## Getting Started
+https://medium.com/flutter-community/build-a-note-taking-app-with-flutter-firebase-part-i-53816e7a3788
+https://medium.com/flutter-community/build-a-note-taking-app-with-flutter-firebase-part-ii-73c1aa6b346
 
-This project is a starting point for a Flutter application.
+flutter doctor -v to check keytool path
 
-A few resources to get you started if this is your first Flutter project:
+C:\Program Files\Android\Android Studio\jre\bin\java
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+keytool.exe -list -v \ -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore

@@ -1,4 +1,4 @@
-package com.example.flt_keep
+package com.sumithpd.flutternoteskeep
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
